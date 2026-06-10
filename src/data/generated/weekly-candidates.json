@@ -1,0 +1,54 @@
+[
+  {
+    "id": "seed-regulatory-precision-btd",
+    "title": "FDA grants breakthrough device designation to cortical BCI implant",
+    "sourceName": "FDA / Company Disclosure",
+    "sourceUrl": "https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program",
+    "publishedAt": "2026-06-10",
+    "category": "regulatory",
+    "summary": "A cortical interface program received a regulatory designation that could compress review timelines if clinical evidence remains supportive.",
+    "companies": [
+      "Precision Neuroscience"
+    ],
+    "tags": [
+      "FDA",
+      "BTD",
+      "implantable BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "seed-clinical-synchron",
+    "title": "Endovascular BCI study expands enrollment across additional centers",
+    "sourceName": "ClinicalTrials.gov",
+    "sourceUrl": "https://clinicaltrials.gov/",
+    "publishedAt": "2026-06-10",
+    "category": "clinical",
+    "summary": "An endovascular neural interface trial added new study sites, suggesting operational progress toward a larger pivotal data package.",
+    "companies": [
+      "Synchron"
+    ],
+    "tags": [
+      "clinical trial",
+      "endovascular",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "seed-science-decoding",
+    "title": "High-density cortical recordings improve speech decoding performance",
+    "sourceName": "PubMed / arXiv",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/",
+    "publishedAt": "2026-06-10",
+    "category": "science",
+    "summary": "Recent academic work indicates that denser cortical recordings and transformer-based decoders may improve speech restoration use cases.",
+    "companies": [],
+    "tags": [
+      "speech decoding",
+      "cortical array",
+      "AI decoder"
+    ],
+    "status": "candidate"
+  }
+]

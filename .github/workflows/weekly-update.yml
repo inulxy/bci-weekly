@@ -1,0 +1,39 @@
+name: Weekly BCI candidate update
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every Monday at 01:00 UTC.
+    - cron: "0 1 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  update-weekly-candidates:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch weekly BCI candidates
+        run: npm run update:weekly
+
+      - name: Run report builder tests
+        run: npm test
+
+      - name: Commit generated weekly data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update weekly BCI candidates"
+          file_pattern: src/data/generated/*.json

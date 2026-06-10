@@ -5,6 +5,8 @@ import { useState } from "react";
 const navLinks = [
   { label: "本周", href: "#weekly" },
   { label: "公司追踪", href: "#tracker" },
+  { label: "投行报告", href: "/reports/current" },
+  { label: "审核台", href: "/admin/review" },
   { label: "往期归档", href: "#archive" },
   { label: "关于", href: "#about" },
 ];
