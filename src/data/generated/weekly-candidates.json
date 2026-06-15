@@ -1,53 +1,275 @@
 [
   {
-    "id": "seed-regulatory-precision-btd",
-    "title": "FDA grants breakthrough device designation to cortical BCI implant",
-    "sourceName": "FDA / Company Disclosure",
-    "sourceUrl": "https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program",
-    "publishedAt": "2026-06-10",
-    "category": "regulatory",
-    "summary": "A cortical interface program received a regulatory designation that could compress review timelines if clinical evidence remains supportive.",
-    "companies": [
-      "Precision Neuroscience"
-    ],
+    "id": "pubmed-42231717",
+    "title": "Circadian rhythms in major depressive disorder: mechanistic insights and therapeutic frontiers.",
+    "sourceName": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42231717/",
+    "publishedAt": "2026-12-01",
+    "category": "science",
+    "summary": "Annals of medicine publication related to neurotechnology or neural interfaces.",
+    "companies": [],
     "tags": [
-      "FDA",
-      "BTD",
-      "implantable BCI"
+      "PubMed",
+      "paper",
+      "neurotechnology"
     ],
     "status": "candidate"
   },
   {
-    "id": "seed-clinical-synchron",
-    "title": "Endovascular BCI study expands enrollment across additional centers",
-    "sourceName": "ClinicalTrials.gov",
-    "sourceUrl": "https://clinicaltrials.gov/",
-    "publishedAt": "2026-06-10",
-    "category": "clinical",
-    "summary": "An endovascular neural interface trial added new study sites, suggesting operational progress toward a larger pivotal data package.",
-    "companies": [
-      "Synchron"
-    ],
+    "id": "pubmed-42226947",
+    "title": "Lateralization in scalp EEG brain connectivity during hand motor imagery can improve task classification for brain-computer interfaces.",
+    "sourceName": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42226947/",
+    "publishedAt": "2026-12-01",
+    "category": "science",
+    "summary": "Cognitive neurodynamics publication related to neurotechnology or neural interfaces.",
+    "companies": [],
     "tags": [
-      "clinical trial",
-      "endovascular",
+      "PubMed",
+      "paper",
+      "neurotechnology"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "pubmed-42212280",
+    "title": "Dynamic central-peripheral balance in brain-muscle interactions reveals motor impairment in post-stroke hemiplegia: an exploratory study.",
+    "sourceName": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42212280/",
+    "publishedAt": "2026-12-01",
+    "category": "science",
+    "summary": "Cognitive neurodynamics publication related to neurotechnology or neural interfaces.",
+    "companies": [],
+    "tags": [
+      "PubMed",
+      "paper",
+      "neurotechnology"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "pubmed-42153184",
+    "title": "Robust decoding for MI-EEG: a hybrid transformer network using multi-perspective collaborative attention and dynamic hyperbolic tangent.",
+    "sourceName": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42153184/",
+    "publishedAt": "2026-12-01",
+    "category": "science",
+    "summary": "Cognitive neurodynamics publication related to neurotechnology or neural interfaces.",
+    "companies": [],
+    "tags": [
+      "PubMed",
+      "paper",
+      "neurotechnology"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "pubmed-41971720",
+    "title": "Domain generalized feature embedded learning for calibration-free event-related potentials recognition.",
+    "sourceName": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41971720/",
+    "publishedAt": "2026-12-01",
+    "category": "science",
+    "summary": "Cognitive neurodynamics publication related to neurotechnology or neural interfaces.",
+    "companies": [],
+    "tags": [
+      "PubMed",
+      "paper",
+      "neurotechnology"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "pubmed-41940265",
+    "title": "Ethical risks and considerations of brain-controlled and neuromodulation technologies.",
+    "sourceName": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41940265/",
+    "publishedAt": "2026-12-01",
+    "category": "science",
+    "summary": "Cognitive neurodynamics publication related to neurotechnology or neural interfaces.",
+    "companies": [],
+    "tags": [
+      "PubMed",
+      "paper",
+      "neurotechnology"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "pubmed-41883491",
+    "title": "A new BCI paradigm based on biological brain - digital twin brain dialogue.",
+    "sourceName": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41883491/",
+    "publishedAt": "2026-12-01",
+    "category": "science",
+    "summary": "Cognitive neurodynamics publication related to neurotechnology or neural interfaces.",
+    "companies": [],
+    "tags": [
+      "PubMed",
+      "paper",
+      "neurotechnology"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "pubmed-41855458",
+    "title": "Application and prospects of brain-computer interface technology for motor function reconstruction after brachial plexus injury.",
+    "sourceName": "PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/41855458/",
+    "publishedAt": "2026-12-01",
+    "category": "science",
+    "summary": "Annals of medicine publication related to neurotechnology or neural interfaces.",
+    "companies": [],
+    "tags": [
+      "PubMed",
+      "paper",
+      "neurotechnology"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "arxiv-http-arxiv-org-abs-2606-13259v1",
+    "title": "ffdas: Volumetric ultrasound reconstruction at warp speed",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.13259v1",
+    "publishedAt": "2026-06-11",
+    "category": "science",
+    "summary": "Volumetric ultrafast ultrasound imaging demands reconstruction of images with millions of voxels thousands of times per second, creating computational challenges that limit both real-time feedback and easy offline analysis. Graphics processing units (GPUs) are well suited to this workload, yet we show that standard delay-and-sum implementations underutilize ",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
       "BCI"
     ],
     "status": "candidate"
   },
   {
-    "id": "seed-science-decoding",
-    "title": "High-density cortical recordings improve speech decoding performance",
-    "sourceName": "PubMed / arXiv",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/",
-    "publishedAt": "2026-06-10",
+    "id": "arxiv-http-arxiv-org-abs-2606-13190v1",
+    "title": "Multi-Modal Multi-Agent Robotic Cognitive Alignment enabled by Non-Invasive Consumer Brain Computer Interfaces: A Proof of Concept Exploration",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.13190v1",
+    "publishedAt": "2026-06-11",
     "category": "science",
-    "summary": "Recent academic work indicates that denser cortical recordings and transformer-based decoders may improve speech restoration use cases.",
+    "summary": "While non-verbal behaviors and expressive movements are essential for natural human-robot interaction, existing methods often overlook a crucial element: the human's internal cognitive state. Frequently, proactive multi-agent systems can interrupt humans at inopportune moments, leading to cognitive overload and decreased task performance. This paper introduc",
     "companies": [],
     "tags": [
-      "speech decoding",
-      "cortical array",
-      "AI decoder"
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "arxiv-http-arxiv-org-abs-2606-13017v1",
+    "title": "Deep Sleep Classification via EEG Signal Criticality: A Passive BCI Approach for Sleep-Improvement Neurofeedback",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.13017v1",
+    "publishedAt": "2026-06-11",
+    "category": "science",
+    "summary": "Automated sleep staging is a fundamental application of passive Brain-Computer Interfaces (pBCI), decoding spontaneous neural states to enable closed-loop interventions independent of user intent. This study evaluates criticality features derived from Detrended Fluctuation Analysis (DFA) for the specific identification of deep sleep (N3). We analyzed $347,23",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "arxiv-http-arxiv-org-abs-2606-12223v1",
+    "title": "Characterization of Speech Imagery in Scalp EEG and Comparison with Motor Imagery",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.12223v1",
+    "publishedAt": "2026-06-10",
+    "category": "science",
+    "summary": "SSpeech imagery is attractive as a brain-computer interface paradigm for communication because it is endogenous and intrinsically linguistic. Yet despite growing interest, its dominant scalp-EEG spatiotemporal characteristics remain poorly characterized. Here, we asked how speech imagery appears in scalp EEG and compared it against finger motor imagery. Usin",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "arxiv-http-arxiv-org-abs-2606-11066v1",
+    "title": "GRAFT: Gain-Recalibrated Adapters for Transformer-Based Neural Population Activity Modeling",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.11066v1",
+    "publishedAt": "2026-06-09",
+    "category": "science",
+    "summary": "Neural population activity models can recover rich temporal structure from binned spikes, but their read-in and readout layers often remain tied to a fixed set of recorded neurons. This coupling limits reuse in long-term brain-computer interfaces, where recorded neuron identities, counts, and response statistics can change across days. We introduce GRAFT, a ",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "arxiv-http-arxiv-org-abs-2606-09922v1",
+    "title": "The Bioelectrical Information Theory: Investigating the theoretical compression limit of bioelectrical signals under artificial intelligence",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.09922v1",
+    "publishedAt": "2026-06-07",
+    "category": "science",
+    "summary": "Bioelectrical signals are increasingly acquired at scales that challenge the bandwidth of brain-computer interfaces. However, their compression is still often framed as a problem of waveform preservation, limited by the entropy of the raw signal. Here we propose an information-theoretic framework in which the effective information of bioelectrical data is de",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "arxiv-http-arxiv-org-abs-2606-04040v1",
+    "title": "Channel-Oriented Design for EEG-to-Music Reconstruction",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.04040v1",
+    "publishedAt": "2026-06-02",
+    "category": "science",
+    "summary": "Brain-computer interfaces aim to decode naturalistic stimuli from neural signals, yet most progress to date has focused on vision and language. In this article, we study a more challenging but far less explored setting, EEG-to-music reconstruction, where signals are weak, distributed, and highly susceptible to noise and channel variability. Our central findi",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "arxiv-http-arxiv-org-abs-2606-02939v1",
+    "title": "ERP-XTTN: Interpretable Prototype-Guided Cross-Attention for Cross-Subject ERP Classification",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.02939v1",
+    "publishedAt": "2026-06-01",
+    "category": "science",
+    "summary": "Interpretable brain-computer interface classifiers that generalize across subjects without calibration remain an open challenge. We test whether prototype-based cross-attention can provide competitive, interpretable event-related potential (ERP) classification under deployment-compatible conditions. We propose ERP-XTTN, a cross-attention architecture that ro",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "fda-event-11380498",
+    "title": "FDA MAUDE device event: Malfunction",
+    "sourceName": "openFDA Device Event",
+    "sourceUrl": "https://open.fda.gov/apis/device/event/",
+    "publishedAt": "20210225",
+    "category": "regulatory",
+    "summary": "Device event report surfaced by openFDA.",
+    "companies": [
+      "ABBOTT IRELAND"
+    ],
+    "tags": [
+      "FDA",
+      "MAUDE",
+      "safety"
     ],
     "status": "candidate"
   }
