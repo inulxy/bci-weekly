@@ -128,6 +128,86 @@
     "status": "candidate"
   },
   {
+    "id": "arxiv-http-arxiv-org-abs-2606-18816v1",
+    "title": "SwitchBraidNet: Quantisation-Aware Lightweight Architecture for Hybrid Brain-Computer Interface",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.18816v1",
+    "publishedAt": "2026-06-17",
+    "category": "science",
+    "summary": "Hybrid brain-computer interfaces (BCIs) that integrate motor imagery (MI) and steady-state visual evoked potentials (SSVEP) provide high-dimensional neural decoding but typically exceed the computational limits of embedded hardware. To address this, we propose SwitchBraidNet, a compact EEG classification architecture designed for low-power deployment. The mo",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "arxiv-http-arxiv-org-abs-2606-16615v2",
+    "title": "SUP-MCRL: Subject-aware Unified Pseudo-feature Coded Multimodal Contrastive Representation Learning for EEG Visual Decoding",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.16615v2",
+    "publishedAt": "2026-06-15",
+    "category": "science",
+    "summary": "Non-invasive brain-computer interfaces exhibit significant performance degradation when moving from controlled laboratory stimuli to real-world natural images. This degradation occurs because conventional multimodal contrastive representation learning models focus exclusively on optimizing geometric distance alignment, thereby failing to account for semantic",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "arxiv-http-arxiv-org-abs-2606-16413v1",
+    "title": "An Augmented Reality Brain-Robot Interface for Generalist Robot Arm Manipulation",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.16413v1",
+    "publishedAt": "2026-06-15",
+    "category": "science",
+    "summary": "The integration of augmented reality (AR) and EEG-based brain-computer interfaces (BCIs) offers a promising path for enabling intuitive control of robots for assistive purposes. However, existing AR brain-robot interface (BRI) systems are often constrained to task-specific structures, limiting their utility in real-world environments. We present an AR BRI de",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "arxiv-http-arxiv-org-abs-2606-15091v2",
+    "title": "Sensory Restoration via Brain-Computer Interfaces: A Unified 2 x 2 Framework and Convergence Roadmap",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.15091v2",
+    "publishedAt": "2026-06-13",
+    "category": "science",
+    "summary": "Millions of individuals worldwide suffer from sensory and communication deficits caused by neurodegenerative diseases, stroke, or trauma. Brain-computer interfaces (BCIs) offer a promising avenue for sensory and motor restoration. However, the scientific literature remains highly fragmented between invasive neuroprosthetics and non-invasive electrophysiologi",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "arxiv-http-arxiv-org-abs-2606-14866v1",
+    "title": "Test-Time Adaptation of Spiking Neural Networks for Intracortical Neural Decoding using Membrane Potential Alignment",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.14866v1",
+    "publishedAt": "2026-06-12",
+    "category": "science",
+    "summary": "Intracortical brain-computer interfaces suffer from day-to-day neural signal shifts that degrade pretrained decoders. Existing unsupervised adaptation methods rely on deep recurrent or adversarial architectures that are too computationally expensive for implantable hardware. We propose Membrane Potential Alignment (MPA), a test-time adaptation method for spi",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
     "id": "arxiv-http-arxiv-org-abs-2606-13259v1",
     "title": "ffdas: Volumetric ultrasound reconstruction at warp speed",
     "sourceName": "arXiv",
@@ -167,86 +247,6 @@
     "publishedAt": "2026-06-11",
     "category": "science",
     "summary": "Automated sleep staging is a fundamental application of passive Brain-Computer Interfaces (pBCI), decoding spontaneous neural states to enable closed-loop interventions independent of user intent. This study evaluates criticality features derived from Detrended Fluctuation Analysis (DFA) for the specific identification of deep sleep (N3). We analyzed $347,23",
-    "companies": [],
-    "tags": [
-      "arXiv",
-      "preprint",
-      "BCI"
-    ],
-    "status": "candidate"
-  },
-  {
-    "id": "arxiv-http-arxiv-org-abs-2606-12223v1",
-    "title": "Characterization of Speech Imagery in Scalp EEG and Comparison with Motor Imagery",
-    "sourceName": "arXiv",
-    "sourceUrl": "http://arxiv.org/abs/2606.12223v1",
-    "publishedAt": "2026-06-10",
-    "category": "science",
-    "summary": "SSpeech imagery is attractive as a brain-computer interface paradigm for communication because it is endogenous and intrinsically linguistic. Yet despite growing interest, its dominant scalp-EEG spatiotemporal characteristics remain poorly characterized. Here, we asked how speech imagery appears in scalp EEG and compared it against finger motor imagery. Usin",
-    "companies": [],
-    "tags": [
-      "arXiv",
-      "preprint",
-      "BCI"
-    ],
-    "status": "candidate"
-  },
-  {
-    "id": "arxiv-http-arxiv-org-abs-2606-11066v1",
-    "title": "GRAFT: Gain-Recalibrated Adapters for Transformer-Based Neural Population Activity Modeling",
-    "sourceName": "arXiv",
-    "sourceUrl": "http://arxiv.org/abs/2606.11066v1",
-    "publishedAt": "2026-06-09",
-    "category": "science",
-    "summary": "Neural population activity models can recover rich temporal structure from binned spikes, but their read-in and readout layers often remain tied to a fixed set of recorded neurons. This coupling limits reuse in long-term brain-computer interfaces, where recorded neuron identities, counts, and response statistics can change across days. We introduce GRAFT, a ",
-    "companies": [],
-    "tags": [
-      "arXiv",
-      "preprint",
-      "BCI"
-    ],
-    "status": "candidate"
-  },
-  {
-    "id": "arxiv-http-arxiv-org-abs-2606-09922v1",
-    "title": "The Bioelectrical Information Theory: Investigating the theoretical compression limit of bioelectrical signals under artificial intelligence",
-    "sourceName": "arXiv",
-    "sourceUrl": "http://arxiv.org/abs/2606.09922v1",
-    "publishedAt": "2026-06-07",
-    "category": "science",
-    "summary": "Bioelectrical signals are increasingly acquired at scales that challenge the bandwidth of brain-computer interfaces. However, their compression is still often framed as a problem of waveform preservation, limited by the entropy of the raw signal. Here we propose an information-theoretic framework in which the effective information of bioelectrical data is de",
-    "companies": [],
-    "tags": [
-      "arXiv",
-      "preprint",
-      "BCI"
-    ],
-    "status": "candidate"
-  },
-  {
-    "id": "arxiv-http-arxiv-org-abs-2606-04040v1",
-    "title": "Channel-Oriented Design for EEG-to-Music Reconstruction",
-    "sourceName": "arXiv",
-    "sourceUrl": "http://arxiv.org/abs/2606.04040v1",
-    "publishedAt": "2026-06-02",
-    "category": "science",
-    "summary": "Brain-computer interfaces aim to decode naturalistic stimuli from neural signals, yet most progress to date has focused on vision and language. In this article, we study a more challenging but far less explored setting, EEG-to-music reconstruction, where signals are weak, distributed, and highly susceptible to noise and channel variability. Our central findi",
-    "companies": [],
-    "tags": [
-      "arXiv",
-      "preprint",
-      "BCI"
-    ],
-    "status": "candidate"
-  },
-  {
-    "id": "arxiv-http-arxiv-org-abs-2606-02939v1",
-    "title": "ERP-XTTN: Interpretable Prototype-Guided Cross-Attention for Cross-Subject ERP Classification",
-    "sourceName": "arXiv",
-    "sourceUrl": "http://arxiv.org/abs/2606.02939v1",
-    "publishedAt": "2026-06-01",
-    "category": "science",
-    "summary": "Interpretable brain-computer interface classifiers that generalize across subjects without calibration remain an open challenge. We test whether prototype-based cross-attention can provide competitive, interpretable event-related potential (ERP) classification under deployment-compatible conditions. We propose ERP-XTTN, a cross-attention architecture that ro",
     "companies": [],
     "tags": [
       "arXiv",
