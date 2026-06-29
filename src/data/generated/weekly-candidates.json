@@ -128,6 +128,102 @@
     "status": "candidate"
   },
   {
+    "id": "arxiv-http-arxiv-org-abs-2606-26951v1",
+    "title": "What Holds Back Brain-Computer Interfaces? Uncovering Challenges and Opportunities in BCI-controlled Games for Cerebral Palsy Rehabilitation",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.26951v1",
+    "publishedAt": "2026-06-25",
+    "category": "science",
+    "summary": "Brain-computer interfaces (BCIs) offer promising avenues for cerebral palsy (CP) rehabilitation at home and in the clinic, using games that promote engagement and sustained training effort. Nonetheless, the design constraints of BCI-based CP rehabilitation remain unclear, especially how individuals with CP experience a sense of control through BCI, and how t",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "arxiv-http-arxiv-org-abs-2606-25456v1",
+    "title": "Towards Robust EEG Decoding Based on Riemannian Self-Attention",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.25456v1",
+    "publishedAt": "2026-06-24",
+    "category": "science",
+    "summary": "Brain-Computer Interface (BCI) based on electroencephalography (EEG) enables direct interaction between the brain and external environments and has significant applications in assistive technologies, medical rehabilitation, and entertainment. Recently, EEG decoding methods based on Symmetric Positive Definite (SPD) learning have demonstrated superior perform",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "arxiv-http-arxiv-org-abs-2606-25400v1",
+    "title": "BrainAgent: A Large Language Model-Driven Multi-Agent Framework for Autonomous Brain Signal Understanding",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.25400v1",
+    "publishedAt": "2026-06-24",
+    "category": "science",
+    "summary": "Brain-Computer Interfaces (BCIs) and brain signal understanding are pivotal for clinical health and next-generation interactions. Despite this significance, its widespread adoption in real-world scenarios remains restricted, primarily because current analytical paradigms lack sufficient agentic intelligence. First, existing methodologies impose prohibitive t",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "arxiv-http-arxiv-org-abs-2606-24394v1",
+    "title": "Average Rankings Mask Per-Subject Optimality: A Friedman-Nemenyi Benchmark of EEG Motor-Imagery BCI Decoders",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.24394v1",
+    "publishedAt": "2026-06-23",
+    "category": "science",
+    "summary": "Electroencephalography (EEG) is the dominant non-invasive modality for brain-computer interfaces (BCIs), yet reliable decoding of motor imagery is hampered by inter- and intra-individual variability. A recurring claim is that one decoding pipeline, most often a spatial or Riemannian method, is broadly preferable. We test the weakest version of that claim und",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "arxiv-http-arxiv-org-abs-2606-23500v1",
+    "title": "Development and Design of FLKit: A Structured Onboarding Toolkit for Federated Learning in Health and Life Sciences",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.23500v1",
+    "publishedAt": "2026-06-22",
+    "category": "science",
+    "summary": "Federated learning lets institutions train shared models without moving their data, which makes it a natural fit for health and life sciences research under strict privacy regulation. The methods are maturing fast, but the practical barrier now comes earlier: a team starting a federated project meets a scattered mix of frameworks, governance obligations, and",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
+    "id": "arxiv-http-arxiv-org-abs-2606-20812v1",
+    "title": "B[FM]$^2$: Brain Foundation Model via Flow Matching with SplitUNet",
+    "sourceName": "arXiv",
+    "sourceUrl": "http://arxiv.org/abs/2606.20812v1",
+    "publishedAt": "2026-06-18",
+    "category": "science",
+    "summary": "EEG foundation models can learn generalizable representations from large-scale EEG corpora to enable single-backbone transfer across diverse clinical and brain-computer interface tasks. Existing models typically discretize the continuous multi-channel EEG waveform into patches or codebook tokens and train a transformer with masked self-supervision. Recognizi",
+    "companies": [],
+    "tags": [
+      "arXiv",
+      "preprint",
+      "BCI"
+    ],
+    "status": "candidate"
+  },
+  {
     "id": "arxiv-http-arxiv-org-abs-2606-18816v1",
     "title": "SwitchBraidNet: Quantisation-Aware Lightweight Architecture for Hybrid Brain-Computer Interface",
     "sourceName": "arXiv",
@@ -151,102 +247,6 @@
     "publishedAt": "2026-06-15",
     "category": "science",
     "summary": "Non-invasive brain-computer interfaces exhibit significant performance degradation when moving from controlled laboratory stimuli to real-world natural images. This degradation occurs because conventional multimodal contrastive representation learning models focus exclusively on optimizing geometric distance alignment, thereby failing to account for semantic",
-    "companies": [],
-    "tags": [
-      "arXiv",
-      "preprint",
-      "BCI"
-    ],
-    "status": "candidate"
-  },
-  {
-    "id": "arxiv-http-arxiv-org-abs-2606-16413v1",
-    "title": "An Augmented Reality Brain-Robot Interface for Generalist Robot Arm Manipulation",
-    "sourceName": "arXiv",
-    "sourceUrl": "http://arxiv.org/abs/2606.16413v1",
-    "publishedAt": "2026-06-15",
-    "category": "science",
-    "summary": "The integration of augmented reality (AR) and EEG-based brain-computer interfaces (BCIs) offers a promising path for enabling intuitive control of robots for assistive purposes. However, existing AR brain-robot interface (BRI) systems are often constrained to task-specific structures, limiting their utility in real-world environments. We present an AR BRI de",
-    "companies": [],
-    "tags": [
-      "arXiv",
-      "preprint",
-      "BCI"
-    ],
-    "status": "candidate"
-  },
-  {
-    "id": "arxiv-http-arxiv-org-abs-2606-15091v2",
-    "title": "Sensory Restoration via Brain-Computer Interfaces: A Unified 2 x 2 Framework and Convergence Roadmap",
-    "sourceName": "arXiv",
-    "sourceUrl": "http://arxiv.org/abs/2606.15091v2",
-    "publishedAt": "2026-06-13",
-    "category": "science",
-    "summary": "Millions of individuals worldwide suffer from sensory and communication deficits caused by neurodegenerative diseases, stroke, or trauma. Brain-computer interfaces (BCIs) offer a promising avenue for sensory and motor restoration. However, the scientific literature remains highly fragmented between invasive neuroprosthetics and non-invasive electrophysiologi",
-    "companies": [],
-    "tags": [
-      "arXiv",
-      "preprint",
-      "BCI"
-    ],
-    "status": "candidate"
-  },
-  {
-    "id": "arxiv-http-arxiv-org-abs-2606-14866v1",
-    "title": "Test-Time Adaptation of Spiking Neural Networks for Intracortical Neural Decoding using Membrane Potential Alignment",
-    "sourceName": "arXiv",
-    "sourceUrl": "http://arxiv.org/abs/2606.14866v1",
-    "publishedAt": "2026-06-12",
-    "category": "science",
-    "summary": "Intracortical brain-computer interfaces suffer from day-to-day neural signal shifts that degrade pretrained decoders. Existing unsupervised adaptation methods rely on deep recurrent or adversarial architectures that are too computationally expensive for implantable hardware. We propose Membrane Potential Alignment (MPA), a test-time adaptation method for spi",
-    "companies": [],
-    "tags": [
-      "arXiv",
-      "preprint",
-      "BCI"
-    ],
-    "status": "candidate"
-  },
-  {
-    "id": "arxiv-http-arxiv-org-abs-2606-13259v1",
-    "title": "ffdas: Volumetric ultrasound reconstruction at warp speed",
-    "sourceName": "arXiv",
-    "sourceUrl": "http://arxiv.org/abs/2606.13259v1",
-    "publishedAt": "2026-06-11",
-    "category": "science",
-    "summary": "Volumetric ultrafast ultrasound imaging demands reconstruction of images with millions of voxels thousands of times per second, creating computational challenges that limit both real-time feedback and easy offline analysis. Graphics processing units (GPUs) are well suited to this workload, yet we show that standard delay-and-sum implementations underutilize ",
-    "companies": [],
-    "tags": [
-      "arXiv",
-      "preprint",
-      "BCI"
-    ],
-    "status": "candidate"
-  },
-  {
-    "id": "arxiv-http-arxiv-org-abs-2606-13190v1",
-    "title": "Multi-Modal Multi-Agent Robotic Cognitive Alignment enabled by Non-Invasive Consumer Brain Computer Interfaces: A Proof of Concept Exploration",
-    "sourceName": "arXiv",
-    "sourceUrl": "http://arxiv.org/abs/2606.13190v1",
-    "publishedAt": "2026-06-11",
-    "category": "science",
-    "summary": "While non-verbal behaviors and expressive movements are essential for natural human-robot interaction, existing methods often overlook a crucial element: the human's internal cognitive state. Frequently, proactive multi-agent systems can interrupt humans at inopportune moments, leading to cognitive overload and decreased task performance. This paper introduc",
-    "companies": [],
-    "tags": [
-      "arXiv",
-      "preprint",
-      "BCI"
-    ],
-    "status": "candidate"
-  },
-  {
-    "id": "arxiv-http-arxiv-org-abs-2606-13017v1",
-    "title": "Deep Sleep Classification via EEG Signal Criticality: A Passive BCI Approach for Sleep-Improvement Neurofeedback",
-    "sourceName": "arXiv",
-    "sourceUrl": "http://arxiv.org/abs/2606.13017v1",
-    "publishedAt": "2026-06-11",
-    "category": "science",
-    "summary": "Automated sleep staging is a fundamental application of passive Brain-Computer Interfaces (pBCI), decoding spontaneous neural states to enable closed-loop interventions independent of user intent. This study evaluates criticality features derived from Detrended Fluctuation Analysis (DFA) for the specific identification of deep sleep (N3). We analyzed $347,23",
     "companies": [],
     "tags": [
       "arXiv",
